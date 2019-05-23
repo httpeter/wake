@@ -12,7 +12,7 @@ package nl.case1;
 public class WakeMain {
 
     public static void main(String[] args) {
-        new Wake();
+        new Wake(2000);
     }
 
 }
