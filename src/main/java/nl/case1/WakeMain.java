@@ -10,10 +10,9 @@ package nl.case1;
  * @author peterhendriks
  */
 public class WakeMain {
-    
-   public static void main(String[] args)
-   {
-       Wake wake = new Wake();
-   }
-    
+
+    public static void main(String[] args) {
+        new Wake();
+    }
+
 }
